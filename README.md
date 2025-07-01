@@ -1,16 +1,42 @@
-## Hi there 👋
+ 👋 Hi, I'm Ritu Sheoran
 
-<!--
-**Ritusheoran23/Ritusheoran23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Computer Science  
+📊 Aspiring Data Analyst | Power BI | Excel | SQL | Python (Basics)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 About Me
+
+- 💻 Currently preparing for a Data Analyst role
+- 📦 Building dashboards and working on real-world datasets
+- 📨 Actively applying for internships and entry-level roles
+- 📈 Interested in data visualization and insights
+
+---
+
+### 🛠️ Skills
+
+- **Tools:** Power BI, MS Excel, Google Sheets  
+- **Databases:** SQL (Joins, Aggregations, Subqueries)  
+- **Languages:** Python (Basics), DAX (Power BI)
+
+---
+
+### 📂 My Projects
+
+- 🚀 Power BI Sales Dashboard  
+- 📊 Excel-based Monthly Expense Tracker  
+- 📌 SQL Queries for Business Insights
+
+---
+
+### 📫 How to reach me
+
+- ✉️ Email: [ritusheoran2332@gmail.com]
+- 🔗 LinkedIn: [linkedin.com/in/ritu-sheoran2332](#)
+
+---
+
+### 🌱 Currently Learning:
+Power BI Advanced, Python for Data Analysis, Git & GitHub
+
