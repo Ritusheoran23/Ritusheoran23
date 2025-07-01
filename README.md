@@ -1,42 +1,56 @@
- 👋 Hi, I'm Ritu Sheoran
+# 👋 Hi, I'm Ritu Sheoran
 
-🎓 MSc in Computer Science  
-📊 Aspiring Data Analyst | Power BI | Excel | SQL | Python (Basics)
-
----
-
-### 🔍 About Me
-
-- 💻 Currently preparing for a Data Analyst role
-- 📦 Building dashboards and working on real-world datasets
-- 📨 Actively applying for internships and entry-level roles
-- 📈 Interested in data visualization and insights
+🎓 M.Sc. in Computer Science  
+📊 Aspiring Data Analyst | Power BI | Excel | SQL | Python (Basics)  
+📌 Currently working as **Mailroom Specialist** at Avon Solutions & Logistics Pvt. Ltd.
 
 ---
 
-### 🛠️ Skills
+## 🧠 About Me
+
+- Currently preparing for a **Data Analyst** role  
+- Working in a full-time job while upskilling side-by-side  
+- Building dashboards & working on real-world datasets  
+- Actively applying for internships and entry-level roles  
+- Interested in **data visualization**, **insights**, and **automation**
+
+---
+
+## 🛠️ Skills
 
 - **Tools:** Power BI, MS Excel, Google Sheets  
-- **Databases:** SQL (Joins, Aggregations, Subqueries)  
+- **Data:** SQL (Joins, Aggregates, Subqueries)  
 - **Languages:** Python (Basics), DAX (Power BI)
 
 ---
 
-### 📂 My Projects
+## 💼 Experience
 
-- 🚀 Power BI Sales Dashboard  
-- 📊 Excel-based Monthly Expense Tracker  
-- 📌 SQL Queries for Business Insights
-
----
-
-### 📫 How to reach me
-
-- ✉️ Email: [ritusheoran2332@gmail.com]
-- 🔗 LinkedIn: [linkedin.com/in/ritu-sheoran2332](#)
+**Mailroom Specialist**  
+📍 Avon Solutions & Logistics Pvt. Ltd.  
+🕒 [Jan 2025] – Present  
+- Managing document logistics and handling corporate correspondence  
+- Working under strict timelines and maintaining accuracy  
+- Gaining exposure to corporate processes & discipline
 
 ---
 
-### 🌱 Currently Learning:
-Power BI Advanced, Python for Data Analysis, Git & GitHub
+## 📂 My Projects
+
+- 📈 **Power BI Sales Dashboard** – Clean, interactive visuals from sales data  
+- 📊 **Excel-based Monthly Expense Tracker**  
+- 📊 **Dashboard for Business Insights**
+
+---
+
+## 📬 How to Reach Me
+
+- 📧 Email: *[ritusheoran2332@gmail.com]*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ritu-sheoran23)  
+- 💻 [GitHub](https://github.com/Ritusheoran23)
+
+---
+
+> “Dreams don’t work unless you do.” – Keep learning, keep applying! 💪🚀
+
 
